@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "easy-raster"
-version = "0.1.1"
+version = "0.1.2"
 description = "Easy to use raster operations"
 authors = ["flegac <florent.legac@gmail.com>"]
 license = "MIT"
